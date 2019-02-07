@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+}
+
+object{
+    width: 100%;
+}
+
+.droppable{
+    margin: 0 auto;
+    height: 300px;
+    width: 300px;
+    background: pink;
+    margin-bottom: 3em;
+}
